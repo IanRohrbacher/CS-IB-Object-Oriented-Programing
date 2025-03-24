@@ -1,0 +1,24 @@
+Script started on 2023-10-03 12:31:22-04:00
+]0;irohrbac@wasp:~/Lab12_Unix[irohrbac@wasp Lab12_Unix]$ ./multy[Karrays
+Enter Operation [a/r/q] and 'Character': a q
+Your List: q 
+Enter Operation [a/r/q] and 'Character': a Q
+Your List: q Q 
+Enter Operation [a/r/q] and 'Character': a g
+Your List: q Q g 
+Enter Operation [a/r/q] and 'Character': a H
+Your List: q Q g H 
+Enter Operation [a/r/q] and 'Character': r H
+Your List: q Q g 
+Enter Operation [a/r/q] and 'Character': r q
+Your List: Q g 
+Enter Operation [a/r/q] and 'Character': r p
+Not Present!
+Your List: Q g 
+Enter Operation [a/r/q] and 'Character': q
+Not Present!
+Your List: Q g 
+]0;irohrbac@wasp:~/Lab12_Unix[irohrbac@wasp Lab12_Unix]$ exit
+exit
+
+Script done on 2023-10-03 12:32:40-04:00
